@@ -1,1 +1,2 @@
 # Shellscripts
+git status
