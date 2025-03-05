@@ -24,3 +24,7 @@ git pull origin master
 git push origin master
 
 If any problem occurs in pushing, use git push --force origin master.
+
+C:\Airdrop\Shellscripts>git push --force origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'github.com:aryanzyraj/Shellscripts.git'
